@@ -1,4 +1,4 @@
 def printF():
-    print("Hello")
+    print("Hell")
 
 printF()
