@@ -1,1 +1,4 @@
-print("Helloo, world")
+def printF():
+    print("Helloo")
+
+printF()
